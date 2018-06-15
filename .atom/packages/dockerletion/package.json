@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/nz/n6hyk7y91sb3z5n97061dxwrqymt3t/T/d-118513-10120-sankhe.rr498me7b9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/nz/n6hyk7y91sb3z5n97061dxwrqymt3t/T/d-118513-10120-sankhe.rr498me7b9/package.tgz",
+        "spec": "/private/var/folders/nz/n6hyk7y91sb3z5n97061dxwrqymt3t/T/d-118513-10120-sankhe.rr498me7b9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/nz/n6hyk7y91sb3z5n97061dxwrqymt3t/T/apm-install-dir-118513-10120-f6nzgi.zwinpl23xr"
+    ]
+  ],
+  "_from": "../d-118513-10120-sankhe.rr498me7b9/package.tgz",
+  "_id": "dockerletion@0.2.0",
+  "_inCache": true,
+  "_location": "/dockerletion",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/nz/n6hyk7y91sb3z5n97061dxwrqymt3t/T/d-118513-10120-sankhe.rr498me7b9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/nz/n6hyk7y91sb3z5n97061dxwrqymt3t/T/d-118513-10120-sankhe.rr498me7b9/package.tgz",
+    "spec": "/private/var/folders/nz/n6hyk7y91sb3z5n97061dxwrqymt3t/T/d-118513-10120-sankhe.rr498me7b9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118513-10120-sankhe.rr498me7b9/package.tgz",
+  "_shasum": "4a28c70b0ed66f4590b10bb1da08edbbc6bff718",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/nz/n6hyk7y91sb3z5n97061dxwrqymt3t/T/d-118513-10120-sankhe.rr498me7b9/package.tgz",
+  "_where": "/private/var/folders/nz/n6hyk7y91sb3z5n97061dxwrqymt3t/T/apm-install-dir-118513-10120-f6nzgi.zwinpl23xr",
+  "bugs": {
+    "url": "https://github.com/wingyplus/dockerletion/issues"
+  },
+  "dependencies": {
+    "atom-package-dependencies": "latest"
+  },
+  "description": "A autocompletion docker instructions for Atom text editor",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/wingyplus/dockerletion#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/dockerletion",
+  "name": "dockerletion",
+  "optionalDependencies": {},
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provider"
+      }
+    }
+  },
+  "readme": "# dockerletion (docker + autocompletion)\n\nA autocompletion docker instructions for Atom text editor\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingyplus/dockerletion.git"
+  },
+  "version": "0.2.0"
+}

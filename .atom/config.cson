@@ -1,0 +1,12 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  "exception-reporting":
+    userId: "9fae5312-1016-4ba0-aa6d-f9971f805fa4"
+  minimap:
+    absoluteMode: true
+    adjustAbsoluteModeHeight: true
